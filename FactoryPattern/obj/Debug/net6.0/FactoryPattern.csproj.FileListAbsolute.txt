@@ -1,0 +1,15 @@
+C:\HyHuynh\TrueCoders\repos\FactoryPatternPractice\FactoryPattern\bin\Debug\net6.0\FactoryPattern.exe
+C:\HyHuynh\TrueCoders\repos\FactoryPatternPractice\FactoryPattern\bin\Debug\net6.0\FactoryPattern.deps.json
+C:\HyHuynh\TrueCoders\repos\FactoryPatternPractice\FactoryPattern\bin\Debug\net6.0\FactoryPattern.runtimeconfig.json
+C:\HyHuynh\TrueCoders\repos\FactoryPatternPractice\FactoryPattern\bin\Debug\net6.0\FactoryPattern.dll
+C:\HyHuynh\TrueCoders\repos\FactoryPatternPractice\FactoryPattern\bin\Debug\net6.0\FactoryPattern.pdb
+C:\HyHuynh\TrueCoders\repos\FactoryPatternPractice\FactoryPattern\obj\Debug\net6.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\HyHuynh\TrueCoders\repos\FactoryPatternPractice\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\HyHuynh\TrueCoders\repos\FactoryPatternPractice\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfo.cs
+C:\HyHuynh\TrueCoders\repos\FactoryPatternPractice\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\HyHuynh\TrueCoders\repos\FactoryPatternPractice\FactoryPattern\obj\Debug\net6.0\FactoryPattern.sourcelink.json
+C:\HyHuynh\TrueCoders\repos\FactoryPatternPractice\FactoryPattern\obj\Debug\net6.0\FactoryPattern.dll
+C:\HyHuynh\TrueCoders\repos\FactoryPatternPractice\FactoryPattern\obj\Debug\net6.0\refint\FactoryPattern.dll
+C:\HyHuynh\TrueCoders\repos\FactoryPatternPractice\FactoryPattern\obj\Debug\net6.0\FactoryPattern.pdb
+C:\HyHuynh\TrueCoders\repos\FactoryPatternPractice\FactoryPattern\obj\Debug\net6.0\FactoryPattern.genruntimeconfig.cache
+C:\HyHuynh\TrueCoders\repos\FactoryPatternPractice\FactoryPattern\obj\Debug\net6.0\ref\FactoryPattern.dll
